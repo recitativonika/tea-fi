@@ -1,9 +1,10 @@
 # Tea-fi Bot
-Tea-fi Bot is a simple tool designed to automate the TX and daily reward claim interaction.
+Tea-fi Bot is a simple tool designed to automate the account registration, TX and daily reward claim interaction.
 
 ## Features
 - **Automated TX interaction**
 - **Auto claim daily rewards**
+- **Auto connect/regist wallet/account**
 
 ## Prerequisites
 - [Node.js](https://nodejs.org/) (version 14 or higher)
