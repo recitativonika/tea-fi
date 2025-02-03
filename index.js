@@ -8,7 +8,7 @@ const config = require('./config');
 const headers = require('./src/headers');
 const { verifyAccountIdentity, verifyWallet, claimOneTimeReward } = require('./src/walletconnect');
 
-const rpcUrl = 'https://polygon.llamarpc.com';
+const rpcUrl = 'https://polygon-rpc.com';
 const web3 = new Web3(new Web3.providers.HttpProvider(rpcUrl));
 const wpolContract = require('./src/wpol')(web3.currentProvider);
 
