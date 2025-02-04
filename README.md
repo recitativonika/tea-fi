@@ -45,7 +45,7 @@ module.exports = {
 ```bash
 node index.js
 ```
-5. Swap POL to WPOL first to process the option 2, 3, 4 and 5. You can swap manually or using option 1 in the script.
+5. Swap POL to WPOL first to process the option 2, 3, 4 and 5. You can swap manually or using option 1 in the script. If error, try swap WPOL to tPOL manually first in tea-fi website.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
